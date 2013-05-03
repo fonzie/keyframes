@@ -1,4 +1,4 @@
-@mixin keyframes($name) {
+@mixin fz-keyframes($name) {
   @-webkit-keyframes #{$name} {
     @content;
   }

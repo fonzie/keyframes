@@ -5,13 +5,13 @@ Mixin for creating `@keyframes`
 ## Installation
 
 ```
-fonzie install keyframes
+bower install fonzie-keyframes
 ```
 
 ## Usage
 
 ```scss
-@include keyframes(fade-in) {
+@include fz-keyframes(fade-in) {
   from {
     opacity: 0;
   }

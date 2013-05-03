@@ -1,0 +1,9 @@
+{
+  "name": "fonzie-keyframes",
+  "description": "Mixin for creating cross-browser keyframes declarations",
+  "author": "Anthony Short",
+  "main": "index.scss",
+  "version": "0.1.0",
+  "dependencies": {},
+  "license": "MIT"
+}
